@@ -1,0 +1,5 @@
+speg (0.3-1) unstable; urgency=medium
+
+  * First release (Closes: #912933)
+
+ -- Norbert Preining <preining@debian.org>  Mon, 05 Nov 2018 11:19:06 +0900
