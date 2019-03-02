@@ -1,7 +1,7 @@
 Source: speg
 Section: python
 Priority: optional
-Maintainer: Norbert Preining <preining@debian.org>
+Maintainer: Norbert Preining <norbert@preining.info>
 Build-Depends: debhelper (>= 10),
                dh-python,
                python3-all-dev,
@@ -9,8 +9,8 @@ Build-Depends: debhelper (>= 10),
                python3-pkgconfig
 Standards-Version: 4.2.1
 Homepage: https://github.com/avakar/speg
-Vcs-Browser: https://salsa.debian.org/preining/speg
-Vcs-Git: https://salsa.debian.org/preining/speg.git
+Vcs-Git: https://github.com/norbusan/debian-speg.git
+Vcs-Browser: https://github.com/norbusan/debian-speg
 
 Package: python3-speg
 Architecture: any

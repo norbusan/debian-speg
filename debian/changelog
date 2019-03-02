@@ -1,3 +1,9 @@
+speg (0.3-2) unstable; urgency=medium
+
+  * update vcs, email
+
+ -- Norbert Preining <norbert@preining.info>  Sun, 03 Mar 2019 08:14:47 +0900
+
 speg (0.3-1) unstable; urgency=medium
 
   * First release (Closes: #912933)
