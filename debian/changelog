@@ -1,3 +1,9 @@
+speg (0.3-3) unstable; urgency=medium
+
+  * source only upload
+
+ -- Norbert Preining <norbert@preining.info>  Fri, 19 Jul 2019 14:35:47 +0900
+
 speg (0.3-2) unstable; urgency=medium
 
   * update vcs, email
