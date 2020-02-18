@@ -1,8 +1,8 @@
-speg (0.3-4) UNRELEASED; urgency=medium
+speg (0.3-4) unstable; urgency=medium
 
   * add a watch file
 
- -- Norbert Preining <norbert@preining.info>  Wed, 19 Feb 2020 04:50:34 +0900
+ -- Norbert Preining <norbert@preining.info>  Wed, 19 Feb 2020 05:09:43 +0900
 
 speg (0.3-3) unstable; urgency=medium
 
