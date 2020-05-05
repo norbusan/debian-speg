@@ -1,3 +1,9 @@
+speg (0.3-5) UNRELEASED; urgency=medium
+
+  * Trim trailing whitespace.
+
+ -- Debian Janitor <janitor@jelmer.uk>  Tue, 05 May 2020 09:09:34 +0000
+
 speg (0.3-4) unstable; urgency=medium
 
   * add a watch file
