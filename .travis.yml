@@ -1,5 +1,10 @@
+arch:
+  - amd64
+  - ppc64le
 language: python
 python:
     - "2.7"
     - "3.4"
+    - "3.7"
+    - "3.8"
 script: python ./setup.py install && python -c "import speg"
